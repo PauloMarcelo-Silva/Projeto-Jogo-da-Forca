@@ -287,6 +287,7 @@ void choice_difficulty::hard()
         break;
     }
 }
+
 template <class GAME>
 GAME estrutura_game(GAME lista_palavra[10][25], GAME nome[1][10])
 {
